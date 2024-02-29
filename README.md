@@ -1,8 +1,15 @@
 # fribia_app
 
-A new Flutter project.
-
+A live Exam APP build in Using Flutter Framework With Dio,Provider Packages & Open Trivia Database
 ## Getting Started
+![alt text](Screenshot_1709191357.png)
+![alt text](<Screenshot 2024-02-29 132307.png>)
+![alt text](Screenshot_1709191536.png)
+![alt text](Screenshot_1709191571.png)
+![alt text](Screenshot_1709191592.png)
+![alt text](Screenshot_1709191609.png)
+![alt text](Screenshot_1709191631.png)
+
 
 This project is a starting point for a Flutter application.
 
