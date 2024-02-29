@@ -88,7 +88,7 @@ class _HomePageState extends State<HomePage> {
           context,
           MaterialPageRoute(
             builder: (BuildContext context) {
-              return GamePage();
+              return GamePage(difficultyLevel: _difficultyTexts[_currentDifficultyLevel.toInt()].toLowerCase(),);
             },
           ),
         );
